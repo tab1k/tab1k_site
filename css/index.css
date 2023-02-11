@@ -19,6 +19,25 @@
   width: 100%;
 }
 
+.body_one {
+}
+
+.col-md-6 {
+  margin: 25px auto;
+}
+
+.col_w1 {
+  width: 35%;
+}
+
+
+.nav {
+  text-decoration: none;
+  align-items: center;
+  color: black;
+}
+
+
 li {
   margin: auto;
   text-align: center;

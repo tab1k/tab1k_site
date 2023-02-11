@@ -3,6 +3,11 @@
     display: flex;
   }
 
+  .block2 {
+    width: 85%;
+    margin: auto;
+  }
+
   .d-flex.flex-column.flex-shrink-0.p-3.bg-light.change_sitebar {
     width: 100%;
     position: absolute;
@@ -19,11 +24,19 @@
 
   .row.p-4.pb-0.pe-lg-0.pt-lg-5.align-items-center.rounded-3.border.shadow-lg {
     width: 90%;
-    margin: 237px 13%;
+    margin: 259px 5% 100px;
   }
 
-  .col {
-    margin: inherit;
+  .h-100.p-5.bg-light.border.rounded-3 {
+    margin-bottom: 40px;
+  }
+
+  .body_one {
+
+  }
+
+  .col-md-6 {
+
   }
 
   .finder {
@@ -42,6 +55,25 @@
 
   form {
     display: none;
+  }
+
+  .nav-item {
+    display: none;
+  }
+
+  .nav-link active {
+    display: none;
+  }
+
+  .nav-link.link-dark {
+    display: none;
+  }
+
+  .nav {
+    text-decoration: none;
+    text-align: center;
+    align-items: center;
+    color: black;
   }
 
 }

@@ -22,3 +22,12 @@
   width: 80%;
   margin: 10%;
 }
+
+
+.nav nav-pills flex-column mb-auto {
+  text-align: center;
+}
+
+.bd-placeholder-img {
+  
+}
