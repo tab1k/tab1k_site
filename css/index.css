@@ -18,3 +18,12 @@
   margin: auto;
   width: 100%;
 }
+
+li {
+  margin: auto;
+  text-align: center;
+}
+
+a {
+  text-align: center;
+}
