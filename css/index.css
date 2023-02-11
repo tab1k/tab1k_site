@@ -1,0 +1,15 @@
+.general {
+  display: flex;
+}
+
+.block2 {
+  width: 85%;
+}
+
+.d-flex  {
+  width: 60%;
+}
+
+.d-flex align-items-center link-dark text-decoration-none dropdown-toggle {
+  display: initial;
+}

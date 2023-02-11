@@ -1,0 +1,16 @@
+.registration {
+  width: 75%;
+  margin: auto;
+}
+
+.container {
+  position: relative;
+}
+
+footer {
+  height: 100px;
+}
+
+.col-md-7.col-lg-8 {
+  margin: auto;
+}

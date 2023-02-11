@@ -1,0 +1,23 @@
+.d-flex.flex-column.flex-shrink-0.p-3.bg-light {
+  height: auto;
+}
+
+
+.row.p-4.pb-0.pe-lg-0.pt-lg-5.align-items-center.rounded-3.border.shadow-lg {
+  width: 90%;
+  margin: auto;
+}
+
+.form-control {
+  margin: 50px 0 20px 250px;
+}
+
+.d-flex align-items-center {
+  align-items: initial;
+}
+
+.row.row-cols-1.row-cols-md-3.mb-3.text-center {
+  position: initial;
+  width: 80%;
+  margin: 10%;
+}
