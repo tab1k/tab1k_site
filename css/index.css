@@ -13,3 +13,8 @@
 .d-flex align-items-center link-dark text-decoration-none dropdown-toggle {
   display: initial;
 }
+
+.finder {
+  margin: auto;
+  width: 100%;
+}

@@ -1,0 +1,40 @@
+@media screen and (max-width: 768px) {
+  .general {
+    display: flex;
+  }
+
+  .d-flex.flex-column.flex-shrink-0.p-3.bg-light.change_sitebar {
+    width: 100%;
+    position: absolute;
+  }
+
+  .nav-link link-dark {
+    display: none;
+  }
+
+  .nav.nav-pills.flex-column.mb-auto {
+    display: -webkit-box;
+    margin: auto;
+  }
+
+  .flex-column {
+    flex-direction: column !important;
+  }
+
+   form {
+    width: 72%;
+    text-align: center;
+    margin: 167px 13%;
+    position: absolute;
+  }
+
+  .row.p-4.pb-0.pe-lg-0.pt-lg-5.align-items-center.rounded-3.border.shadow-lg {
+    width: 90%;
+    margin: 237px 13%;
+  }
+
+  .col {
+    margin: inherit;
+  }
+
+}
